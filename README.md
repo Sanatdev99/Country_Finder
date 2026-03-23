@@ -1,16 +1,17 @@
-# React + Vite
+# 🌍 Country Finder & Weather Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React application built as part of the **Full Stack Open** curriculum. 
+This project demonstrates frontend state management, complex filtering, 
+and third-party API integration.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- **Real-time Search:** Filters 250+ countries as you type.
+- **Dynamic Views:** Transitions between list views and detailed profiles.
+- **Weather Integration:** Fetches live weather data for capital cities using OpenWeatherMap API.
+- **Responsive Design:** Styled with Tailwind CSS for all screen sizes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- React (Vite)
+- Axios (Data fetching)
+- Tailwind CSS (Styling)
+- OpenWeatherMap API
